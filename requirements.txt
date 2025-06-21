@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.19.0
+transformers>=4.30.0
+pytorch-lightning>=2.0.0
+wandb>=0.15.0
+pytorch-fid>=0.3.0
+accelerate>=0.21.0
+datasets>=2.13.0 
